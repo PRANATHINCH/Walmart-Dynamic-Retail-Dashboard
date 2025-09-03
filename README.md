@@ -15,7 +15,7 @@ This project presents a comprehensive Excel dashboard designed to analyze Walmar
 ## 🗺️ Top 10 Countries by Sales
 A bar chart, data table, and world map highlight Walmart’s top 10 countries by total sales. The United States leads, followed by Australia and France.
 
-![Top Countries by Sales](images/top_countries_sales.png)
+![Top Countries by Sales](top_countries_sales.png)
 
 ---
 
